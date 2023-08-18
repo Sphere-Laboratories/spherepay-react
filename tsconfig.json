@@ -1,0 +1,10 @@
+{
+  "extends": "tsconfig/react-library.json",
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules", "src/**/*.stories.tsx"],
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "types",
+    "sourceMap": true
+  }
+}
