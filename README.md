@@ -13,7 +13,11 @@
   </p>
 </div>
 
-The Sphere React library provides convenient access to checkout components.
+# Overview
+
+This repository contains the source code for Sphere's React library.
+
+It provides convenient access to checkout components.
 
 ## Installation
 
